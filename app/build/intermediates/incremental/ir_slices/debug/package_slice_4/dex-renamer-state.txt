@@ -1,0 +1,4 @@
+#Tue May 07 17:28:23 EST 2019
+base.0=/home/ricardo/Documentos/TEC/8° Semestre/Dispositivos moviles/Proyectos/DiaDelNinio/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
